@@ -45,7 +45,7 @@ p{
     text-transform: capitalize;
     color: teal;
     font-weight: bolder;
-    margin-top: 20px;
+    margin: 20px auto;
     text-align: center;
 }
 .imgs{
